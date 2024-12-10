@@ -5,6 +5,8 @@ date: 2024-12-10
 categories: [technical, coding, ktor]
 ---
 
+![Banner]({{ "/media/banner.gif" | relative_url }})
+
 ## Imagine...
 
 Imagine that we are developing a MMORPG (massively multiplayer online role-playing game). Our differentiating feature is that users can craft and store pretty much anything they can come up with! Quite ambitious, but that is how we roll in the software engineering world. Ambition and scope creep is our middle name! 
