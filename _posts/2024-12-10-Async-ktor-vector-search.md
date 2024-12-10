@@ -2,7 +2,7 @@
 layout: post
 title: "Fast async vector search with Ktor and Weaviate"
 date: 2024-12-10
-categories: [technical, coding]
+categories: [technical, coding, ktor]
 ---
 
 ## Introduction
