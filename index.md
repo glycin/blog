@@ -1,8 +1,16 @@
 ---
 layout: default
-title: Welcome to My Blog
+title: Home
 ---
 
-# Hello, World!
+# Welcome to My Blog
 
-Welcome to my technical blog.
+Here are my latest posts:
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
