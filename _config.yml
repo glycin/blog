@@ -1,4 +1,5 @@
 title: A fun tech blog
 description: Stuff
 permalink: /:title/
+baseurl: /blog
 theme: minima
