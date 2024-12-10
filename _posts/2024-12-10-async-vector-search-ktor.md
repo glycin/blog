@@ -17,5 +17,6 @@ You can easily add code snippets in your posts:
 
 ```kotlin
 val test = "hello world"
+```
 
 Does the kotlin stuff work?
